@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_calc.input.height">96dp</dimen>
+    <dimen name="main_calc.input.img">16dp</dimen>
+    <dimen name="main_calc.btn.widht">64dp</dimen>
+    <dimen name="main_calc.btn.text">28sp</dimen>
+    <dimen name="main_calc.widht.0">0dp</dimen>
+    <dimen name="main_calc.height.0">0dp</dimen>
+    <dimen name="main_calc.input.height.land">75dp</dimen>
+</resources>
